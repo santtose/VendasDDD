@@ -1,0 +1,11 @@
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\bin\Debug\net6.0\Vendas.Core.deps.json
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\bin\Debug\net6.0\Vendas.Core.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\bin\Debug\net6.0\Vendas.Core.pdb
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.AssemblyInfoInputs.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.AssemblyInfo.cs
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.csproj.CoreCompileInputs.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\refint\Vendas.Core.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\Vendas.Core.pdb
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Core\obj\Debug\net6.0\ref\Vendas.Core.dll

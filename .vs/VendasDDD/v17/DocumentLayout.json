@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7542CD11-294A-4D46-9795-56357B72383B}|Vendas.Tests\\Vendas.Tests.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendas.tests\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7542CD11-294A-4D46-9795-56357B72383B}|Vendas.Tests\\Vendas.Tests.csproj|solutionrelative:vendas.tests\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1511D961-80F0-4B7E-A4FC-696213ABD159}|Vendas.Core\\Vendas.Core.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendas.core\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1511D961-80F0-4B7E-A4FC-696213ABD159}|Vendas.Core\\Vendas.Core.csproj|solutionrelative:vendas.core\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD3842B-D254-47D0-9736-90361E316751}|VendasDDD\\VendasDDD.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendasddd\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD3842B-D254-47D0-9736-90361E316751}|VendasDDD\\VendasDDD.csproj|solutionrelative:vendasddd\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA69A92A-8310-4573-A2E8-FF559EE6549B}|Vendas.Infrastructure\\Vendas.Infrastructure.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendas.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA69A92A-8310-4573-A2E8-FF559EE6549B}|Vendas.Infrastructure\\Vendas.Infrastructure.csproj|solutionrelative:vendas.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD3842B-D254-47D0-9736-90361E316751}|VendasDDD\\VendasDDD.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD3842B-D254-47D0-9736-90361E316751}|VendasDDD\\VendasDDD.csproj|solutionrelative:vendasddd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA69A92A-8310-4573-A2E8-FF559EE6549B}|Vendas.Infrastructure\\Vendas.Infrastructure.csproj|c:\\users\\diogo_santos\\desktop\\ddd\\vendasddd\\vendas.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA69A92A-8310-4573-A2E8-FF559EE6549B}|Vendas.Infrastructure\\Vendas.Infrastructure.csproj|solutionrelative:vendas.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Core\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Vendas.Core\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Core\\Entities\\Produto.cs",
+              "RelativeToolTip": "Vendas.Core\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:51:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeDocumentMoniker": "Vendas.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeToolTip": "Vendas.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:48:38.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\VendasDDD\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "VendasDDD\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\VendasDDD\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "VendasDDD\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:08:17.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\VendasDDD\\Program.cs",
+              "RelativeDocumentMoniker": "VendasDDD\\Program.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\VendasDDD\\Program.cs",
+              "RelativeToolTip": "VendasDDD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:06:23.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Vendas.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Vendas.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:42:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Vendas.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\diogo_santos\\Desktop\\ddd\\VendasDDD\\Vendas.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Vendas.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:39:23.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

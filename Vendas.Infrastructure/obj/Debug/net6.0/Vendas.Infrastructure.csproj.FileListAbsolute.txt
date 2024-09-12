@@ -1,0 +1,17 @@
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Infrastructure.deps.json
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Infrastructure.runtimeconfig.json
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Infrastructure.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Infrastructure.pdb
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Core.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\bin\Debug\net6.0\Vendas.Core.pdb
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.AssemblyInfo.cs
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.I.CB2C0897.Up2Date
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\refint\Vendas.Infrastructure.dll
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.pdb
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\Vendas.Infrastructure.genruntimeconfig.cache
+C:\Users\diogo_santos\Desktop\ddd\VendasDDD\Vendas.Infrastructure\obj\Debug\net6.0\ref\Vendas.Infrastructure.dll
